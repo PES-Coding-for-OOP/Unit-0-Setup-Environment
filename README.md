@@ -1,4 +1,4 @@
-# Unit-0-Setup-Environment
+# Unit 0 — Setup Environment
 
 In order to code in Python on your computer, Python must first be installed.
 
@@ -10,8 +10,8 @@ In order to code in Python on your computer, Python must first be installed.
 ## Test Installation
 - Open a command prompt window (command line interface)
 - Type `python --version` and press `Return` (`Enter` on a Windows machine)
--- You should see `python 3.x.x`
--- If a different version is reported (this occurs on Macs)...
+- - You should see `python 3.x.x`
+- - If a different version is reported (this occurs on Macs)...
 --- Type `nano ~/.bash_profile` to edit the `.bash_profile` file for the current user (you)
 --- Go to the end of the file and add...
 ---- `alias python='python3'`
